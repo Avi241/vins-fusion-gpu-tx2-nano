@@ -105,7 +105,7 @@ pkg-config --modversion opencv # Check opencv Version
 ```
 cd ~/Downloads/
 git clone https://github.com/Avi241/vins-fusion-gpu-tx2-nano.git
-cd vins-fusion-gpu-tx2/
+cd vins-fusion-gpu-tx2-nano/
 chmod a+x installROS.sh setupCatkinWorkspace.sh
 ./installROS.sh 
 ./setupCatkinWorkspace.sh
